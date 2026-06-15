@@ -60,6 +60,7 @@ yarn ios
 
 
 ============git setup===========
- git remote set-url origin https://bablu13100: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@github.com/bablu13100/vaymp.git
+git clone https://github.com/bablu13100/vaymp.git
+
 
 
