@@ -60,6 +60,7 @@ yarn ios
 
 
 ============git setup===========
+
 git clone https://github.com/bablu13100/vaymp.git
 
 
