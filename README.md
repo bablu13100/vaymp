@@ -61,7 +61,9 @@ yarn ios
 
 ============git setup===========
 
-git clone https://github.com/bablu13100/vaymp.git
-
+- git clone https://github.com/bablu13100/vaymp.git
+- npm i
+- setup the android sdk path by creating local.properties and set the android sdk path.
+example (sdk.dir =/Users/bablu/Library/Android/sdk). 
 
 
