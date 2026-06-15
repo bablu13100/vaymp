@@ -59,7 +59,7 @@ yarn ios
 ```
 
 
-============git setup===========
+============git and project setup===========
 
 - git clone https://github.com/bablu13100/vaymp.git
 - npm i
